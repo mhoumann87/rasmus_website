@@ -203,6 +203,7 @@ header h1 {
   .nav__link {
     font-size: 1.4rem;
     padding: 0.5em;
+    border-radius: 10px;
     transition: 250ms;
   }
 
